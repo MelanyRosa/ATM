@@ -1,3 +1,5 @@
+/* Melany Estefanía Rosa González 0909-22-2253
+    Yara Aline Guzman Garcia 0909-22-1792 */
 //tomando elementos de html con js
 const headerText = document.querySelector(".header__text");
 const display = document.querySelector("#display");
